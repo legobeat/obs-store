@@ -31,7 +31,7 @@
     "readable-stream": "^3.6.2"
   },
   "devDependencies": {
-    "@lavamoat/allow-scripts": "^2.3.1",
+    "@lavamoat/allow-scripts": "^3.0.4",
     "@metamask/auto-changelog": "^3.4.2",
     "@metamask/eslint-config": "^7.0.1",
     "@metamask/eslint-config-typescript": "^7.0.1",
@@ -61,5 +61,6 @@
     "allowScripts": {
       "@lavamoat/preinstall-always-fail": false
     }
-  }
+  },
+  "packageManager": "yarn@4.2.1+sha256.15ce76682a8cd2090257b883cd69c637925b29573f9573e8403ec227d5ab6815"
 }
